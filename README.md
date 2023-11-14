@@ -37,8 +37,7 @@ https://store.shopping.yahoo.co.jp/orangepicoshop/<br>
 してください。<br>
 <br>
 <br>
-
-![EMUZ80PIC_SD MK2.2 No.1](Photo/"EMUZ80PIC_SD MK2.2".png)
+![EMUZ80PIC_SD MK2.2 No.1](Photo/EMUZ80PIC_SD_MK2.2.png)
 ![EMUZ80PIC_SD MK2.2 No.2](Photo/P1.jpg)
 <br>
 <br>
@@ -55,7 +54,8 @@ EMUZ80PIC_SDと同じ面積に全ての部品を実装しています。<br>
 ハンダに自身の無い方は、EMUZ80PIC_SD MK2.2を選択した方が無難かと思います。<br>
 <br>
 <br>
-![EMUZ80PIC_SD MK3.2 No.1](Photo/EMUZ80PIC_SD MK3.2.png)
+
+![EMUZ80PIC_SD MK3.2 No.1](Photo/EMUZ80PIC_SD_MK3.2.png)
 ![EMUZ80PIC_SD MK3.2 No.2](Photo/P2.jpg)
 <br>
 <br>
