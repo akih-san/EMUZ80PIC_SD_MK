@@ -37,7 +37,8 @@ https://store.shopping.yahoo.co.jp/orangepicoshop/<br>
 してください。<br>
 <br>
 <br>
-![EMUZ80PIC_SD MK2.2 No.1](Photo/EMUZ80PIC_SD MK2.2.png)
+
+![EMUZ80PIC_SD MK2.2 No.1](Photo/"EMUZ80PIC_SD MK2.2".png)
 ![EMUZ80PIC_SD MK2.2 No.2](Photo/P1.jpg)
 <br>
 <br>
