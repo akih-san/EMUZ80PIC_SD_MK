@@ -3,7 +3,7 @@
 EMUZ80PIC_SDは、EMUZ80にアドオンするμSDカードモジュールです。<br>
 今回、新たに2種類のμSDカードモジュールを作ってみました。<br>
 <br>
-![SD 1](Photo/P3.JPG)
+![SD 1](/Photo/P3.JPG)
 <br>
 <br>
 第一弾に比べて、LEDの数を増やしました。<br>
