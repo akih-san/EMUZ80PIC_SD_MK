@@ -38,7 +38,7 @@ https://store.shopping.yahoo.co.jp/orangepicoshop/<br>
 <br>
 <br>
 ![EMUZ80PIC_SD MK2.2 No.1](Photo/EMUZ80PIC_SD_MK2.2.png)
-![EMUZ80PIC_SD MK2.2 No.2](Photo/P1.jpg)
+![EMUZ80PIC_SD MK2.2 No.2](Photo/P1.JPG)
 <br>
 <br>
 # EMUZ80PIC_SD MK3.2
@@ -56,7 +56,7 @@ EMUZ80PIC_SDと同じ面積に全ての部品を実装しています。<br>
 <br>
 
 ![EMUZ80PIC_SD MK3.2 No.1](Photo/EMUZ80PIC_SD_MK3.2.png)
-![EMUZ80PIC_SD MK3.2 No.2](Photo/P2.jpg)
+![EMUZ80PIC_SD MK3.2 No.2](Photo/P2.JPG)
 <br>
 <br>
 ＜参考＞<br>
